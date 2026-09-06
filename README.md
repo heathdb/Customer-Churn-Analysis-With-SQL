@@ -1,4 +1,4 @@
-# Ecommerce-Customer-Churn-Analysis---HB
+# Ecommerce-Customer-Churn-Analysis - HB
 Understanding and analyzing why customers are leaving an ecommerce company.
 
 Ecommerce Customer Churn Analysis - Welcome to my Customer Churn Analysis project. I tackled this project to grow my SQL knowledge and learn to navigate databases. The goal was to analyze the data, understand customer behaviors, and provide insight and recommendations to reduce churn rates. The analysis is based on a dataset containing various customer attributes and behaviors. This repository also contains the queries I ran to get my results.
